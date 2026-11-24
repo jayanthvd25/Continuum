@@ -52,28 +52,28 @@ Key Objectives
 
 Core Modules
 
-Module	Description
-Wallet Engine	Manages simulated wallet balances and spending limits.
-Transaction Engine	Handles payment creation and transaction processing.
-Offline Communication	Explores QR and NFC-based device communication.
-Security Engine	Implements cryptographic verification and transaction integrity.
-Synchronization Engine	Synchronizes pending transactions after connectivity is restored.
-Reconciliation Engine	Identifies duplicate, conflicting and inconsistent transactions.
-Monitoring Dashboard	Provides transaction visibility and system monitoring.
+   Module	                                 Description
+Wallet Engine	              Manages simulated wallet balances and spending limits.
+Transaction Engine	          Handles payment creation and transaction processing.
+Offline Communication	      Explores QR and NFC-based device communication.
+Security Engine	Implements    cryptographic verification and transaction integrity.
+Synchronization Engine	      Synchronizes pending transactions after connectivity is restored.
+Reconciliation Engine	      Identifies duplicate, conflicting and inconsistent transactions.
+Monitoring Dashboard	      Provides transaction visibility and system monitoring.
 
 Technology Stack
 
-Component	Technology
-Backend	Node.js
-Framework	Express.js
-Database	MongoDB
-ODM	Mongoose
-Mobile Application	React Native
-Local Storage	SQLite
-Device Communication	NFC / QR
-Authentication	JWT
-Security	Cryptographic Digital Signatures
-Containerization	Docker
+Component	         Technology
+Backend	              Node.js
+Framework	          Express.js
+Database	          MongoDB
+ODM	                  Mongoose
+Mobile Application	  React Native
+Local Storage	      SQLite
+Device Communication  NFC / QR
+Authentication	      JWT
+Security	          Cryptographic Digital Signatures
+Containerization	  Docker
 
 The technology stack is subject to refinement during development.
 
